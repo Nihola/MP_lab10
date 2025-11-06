@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
-import 'screens/widget_demo.dart';
-import 'screens/custom_title_demo.dart';
-import 'screens/custom_counter_demo.dart';
-import 'screens/combined_widgets.dart';
-import 'screens/animated_container.dart';
-import 'screens/logo_animation.dart';
-import 'screens/gesture_box.dart';
-import 'screens/theme_switcher.dart';
-import 'screens/animated_list_demo.dart';
-import 'screens/mini_project_home.dart';
+import 'widget_demo.dart';
+import 'custom_title_demo.dart';
+import 'custom_counter_demo.dart';
+import 'combined_widgets.dart';
+import 'animated_container.dart';
+import 'logo_animation.dart';
+import 'gesture_box.dart';
+import 'theme_switcher.dart';
+import 'animated_list_demo.dart';
+import 'mini_project_home.dart';
 
 void main() => runApp(MyApp());
 
